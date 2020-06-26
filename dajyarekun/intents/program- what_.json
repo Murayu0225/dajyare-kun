@@ -1,0 +1,44 @@
+{
+  "id": "65349372-6137-425d-bafd-7efd319f1a54",
+  "name": "program- what?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0f3c1f49-83c5-4e52-b72f-d06a7bed7371",
+          "required": false,
+          "dataType": "@program-entities-what",
+          "name": "program-entities-what",
+          "value": "$program-entities-what",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "condition": "",
+          "speech": "大変申し訳ございません。　開発者に連絡し、確認いたします。　これからもよろしくお願いいたします。"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

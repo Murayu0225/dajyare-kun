@@ -1,0 +1,28 @@
+[
+  {
+    "id": "71bcd6b4-0034-422c-8074-a1853f969a92",
+    "data": [
+      {
+        "text": "お話ししてよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "edac5491-f485-4ad4-9a7d-c2a5d688260e",
+    "data": [
+      {
+        "text": "話そう",
+        "alias": "program-talk--alpha",
+        "meta": "@program-talk--alpha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "09dd74ca-e849-4a72-8a10-8be5ac7cc577",
+  "name": "program-entities-thank",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

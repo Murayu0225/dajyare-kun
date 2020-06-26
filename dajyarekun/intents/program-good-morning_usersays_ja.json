@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ea3bac00-f1e0-4588-a025-defc6b39fede",
+    "data": [
+      {
+        "text": "おはよう",
+        "alias": "program-entities-good-morning",
+        "meta": "@program-entities-good-morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "f419d4b0-41f5-45c0-9756-51ef4fe7e35c",
+    "data": [
+      {
+        "text": "こんばんは",
+        "alias": "program-entities-good-evening",
+        "meta": "@program-entities-good-evening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

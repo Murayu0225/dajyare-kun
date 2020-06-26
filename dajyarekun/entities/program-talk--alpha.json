@@ -1,0 +1,9 @@
+{
+  "id": "593abf90-4104-46df-a2cd-8e4bc45ac746",
+  "name": "program-talk--alpha",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

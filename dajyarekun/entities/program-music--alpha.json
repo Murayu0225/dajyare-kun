@@ -1,0 +1,9 @@
+{
+  "id": "a5b352fc-4a03-4f3b-8c7e-52f40e8f053a",
+  "name": "program-music--alpha",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

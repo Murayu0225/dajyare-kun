@@ -1,0 +1,44 @@
+{
+  "id": "7c3d7427-b32f-47c6-be55-2e28cf2a21bc",
+  "name": "program-music--alpha-v12",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "30df4a7b-e896-4592-9679-99f96b3fc07f",
+          "required": false,
+          "dataType": "@program-music--alpha",
+          "name": "program-music--alpha",
+          "value": "$program-music--alpha",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "condition": "",
+          "speech": "私は、音楽の中だと、クラシックが好きなんです\n引き続き、ダジャレを聞く場合には、「ダジャレ」と送ってね！\n終了する場合は、「終了」と送ってね！"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

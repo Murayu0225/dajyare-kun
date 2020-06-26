@@ -1,0 +1,9 @@
+{
+  "id": "15a433ae-a010-4b14-b37c-f1a9fc3667ba",
+  "name": "program-entities-hi",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

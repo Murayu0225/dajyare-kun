@@ -1,0 +1,9 @@
+{
+  "id": "e7e92184-4517-4ae6-85fb-9159156f9fe2",
+  "name": "program-entities-what",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

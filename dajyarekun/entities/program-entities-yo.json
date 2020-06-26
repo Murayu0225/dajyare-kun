@@ -1,0 +1,9 @@
+{
+  "id": "c303579f-d382-47ce-965b-9c3d03acf4b4",
+  "name": "program-entities-yo",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

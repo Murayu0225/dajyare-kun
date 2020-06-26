@@ -1,0 +1,16 @@
+[
+  {
+    "id": "bf9454c2-7a80-4804-831f-f7397c6bf90a",
+    "data": [
+      {
+        "text": "こんにちは",
+        "alias": "program-entities-hi",
+        "meta": "@program-entities-hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

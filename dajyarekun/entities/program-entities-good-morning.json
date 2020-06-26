@@ -1,0 +1,9 @@
+{
+  "id": "3376bb66-06e4-4959-bf53-1e85d1adb854",
+  "name": "program-entities-good-morning",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

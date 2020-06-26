@@ -1,0 +1,110 @@
+[
+  {
+    "id": "4eb6f5df-2299-4039-860e-792bb9656fdb",
+    "data": [
+      {
+        "text": "怖い話の電車につないで",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3337bb06-cfb7-47e9-9d6e-f003180ae5d6",
+    "data": [
+      {
+        "text": "ママ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f56b9b10-a5e4-4eba-873f-10cf3985d4e0",
+    "data": [
+      {
+        "text": "そんなこと言ってくれるね",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ccd0c039-1b34-4e76-9d00-bbb1b7dc7923",
+    "data": [
+      {
+        "text": "スペース びっくりするね",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb17e18b-fc02-4a9e-93cd-296ec06df2ad",
+    "data": [
+      {
+        "text": "テスト",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54c8e2c6-295c-4dfa-8d02-9f02cf3fafe1",
+    "data": [
+      {
+        "text": "同意",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6bfaa91b-b3d4-4506-997a-60d649bb49de",
+    "data": [
+      {
+        "text": "welcome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a397c91-c945-49b5-96a5-1118ce23f595",
+    "data": [
+      {
+        "text": "ハルプ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f71ed9b0-7e7d-4f57-8ffd-b4d8015885e7",
+    "data": [
+      {
+        "text": "最新情報",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

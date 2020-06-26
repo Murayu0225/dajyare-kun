@@ -1,0 +1,9 @@
+{
+  "id": "ebc8a05c-8ec4-4b48-8ef5-2ba16502c034",
+  "name": "program-entities-good-evening",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

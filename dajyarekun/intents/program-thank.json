@@ -1,0 +1,44 @@
+{
+  "id": "dc58af41-daf6-40d3-8fad-236cfa4af763",
+  "name": "program-thank",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "98d58474-9c17-42c3-9323-0cde6210c305",
+          "required": false,
+          "dataType": "@program-entities-thank",
+          "name": "program-entities-thank",
+          "value": "$program-entities-thank",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "condition": "",
+          "speech": "ありがとうございます！これからも頑張って開発させていただきます。\nダジャレを引き続き聞く場合には、「ダジャレ」と言ってね！\n終了する場合には、「終了」と言ってね！"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

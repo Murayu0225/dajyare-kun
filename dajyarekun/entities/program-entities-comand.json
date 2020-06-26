@@ -1,0 +1,9 @@
+{
+  "id": "0e7847c6-89b7-4cc3-8c58-658804ba0576",
+  "name": "program-entities-comand",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

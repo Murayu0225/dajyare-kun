@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a2a1811b-fdb2-4a20-abb0-806a74dae977",
+    "data": [
+      {
+        "text": "もうやめ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1575bac7-c4c8-4cc6-9450-c328f87244ec",
+    "data": [
+      {
+        "text": "Ok Google 終わり",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6451c1bd-7099-4bb2-9db8-b72cc6122a46",
+    "data": [
+      {
+        "text": "終わり",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d3eddfc1-4259-4f2d-852d-8e70c2f7229f",
+    "data": [
+      {
+        "text": "ストップ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "e7d32ac9-57f4-4ac0-aea9-5bd3df2dc479",
+    "data": [
+      {
+        "text": "ありがとう",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

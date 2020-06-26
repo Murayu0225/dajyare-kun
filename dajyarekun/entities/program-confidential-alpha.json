@@ -1,0 +1,9 @@
+{
+  "id": "b7495e4f-8ade-4fbd-b591-00c030f543ed",
+  "name": "program-confidential-alpha",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

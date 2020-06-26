@@ -1,0 +1,9 @@
+{
+  "id": "0501c489-21d5-4d2e-a48b-1179c7e8c7a5",
+  "name": "program-new-alpha",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

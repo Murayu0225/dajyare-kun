@@ -1,0 +1,9 @@
+{
+  "id": "92b1a73e-fc29-484c-8748-a84f664f34ec",
+  "name": "program-user",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

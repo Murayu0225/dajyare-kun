@@ -1,0 +1,44 @@
+{
+  "id": "95522881-16c2-4ce5-8533-961d04e84b7c",
+  "name": "program-good-morning",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4d33d72f-af47-4895-871d-43effff13040",
+          "required": false,
+          "dataType": "@program-entities-good-morning",
+          "name": "program-entities-good-morning",
+          "value": "$program-entities-good-morning",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "condition": "",
+          "speech": "おはようございます！　ダジャレくんです！　ダジャレを言って欲しいときは、 ｢ダジャレ｣と送ってね！"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "4f5860e0-2e28-4b0e-bfe1-6000923217c7",
+  "name": "program-good-night",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5ddd5208-998e-41fa-885b-dfdffe0507b9",
+          "required": false,
+          "dataType": "@program-entities-good-evening",
+          "name": "program-entities-good-evening",
+          "value": "$program-entities-good-evening",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "condition": "",
+          "speech": "こんばんは！　ダジャレくんです！　ダジャレを言って欲しいときは、 ｢ダジャレ｣と送ってね！"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

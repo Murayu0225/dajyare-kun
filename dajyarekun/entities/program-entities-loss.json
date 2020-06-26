@@ -1,0 +1,9 @@
+{
+  "id": "014f95ab-973e-4f56-8e63-b83a4fb508e5",
+  "name": "program-entities-loss",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

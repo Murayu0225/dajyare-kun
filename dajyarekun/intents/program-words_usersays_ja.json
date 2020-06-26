@@ -1,0 +1,142 @@
+[
+  {
+    "id": "eb9428b5-97fd-40a1-9aa8-1c996a2e980d",
+    "data": [
+      {
+        "text": "だじゃれ",
+        "alias": "program-user",
+        "meta": "@program-user",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1f9aec24-ade6-4553-bddd-7808b1039d2c",
+    "data": [
+      {
+        "text": "ダジャレ",
+        "alias": "program-user",
+        "meta": "@program-user",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "083821e7-307e-4ee9-9ab6-afaca6cb504b",
+    "data": [
+      {
+        "text": "ダジャレ",
+        "alias": "program-user",
+        "meta": "@program-user",
+        "userDefined": false
+      },
+      {
+        "text": " ダジャレ ダジャレ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7e4d56c2-27e1-4728-bd83-e2664a3faba1",
+    "data": [
+      {
+        "text": "Ok Google ",
+        "userDefined": false
+      },
+      {
+        "text": "ダジャレ",
+        "alias": "program-user",
+        "meta": "@program-user",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "83f816b3-891b-4d5f-af97-583b0d694fef",
+    "data": [
+      {
+        "text": "ダジャレ",
+        "alias": "program-user",
+        "meta": "@program-user",
+        "userDefined": false
+      },
+      {
+        "text": "が、少ない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "02b2c403-e186-4a51-8516-290afc359358",
+    "data": [
+      {
+        "text": "ダジャレ くん",
+        "alias": "program-user",
+        "meta": "@program-user",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63877957-c49d-4ab3-86e7-a69a18e99333",
+    "data": [
+      {
+        "text": "Ok Google 普通に言って ",
+        "userDefined": false
+      },
+      {
+        "text": "ダジャレ",
+        "alias": "program-user",
+        "meta": "@program-user",
+        "userDefined": false
+      },
+      {
+        "text": "を",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6918c16f-3640-49a6-94a6-25d68e66830f",
+    "data": [
+      {
+        "text": "Google 短い言葉で",
+        "userDefined": false
+      },
+      {
+        "text": "ダジャレ",
+        "alias": "program-user",
+        "meta": "@program-user",
+        "userDefined": false
+      },
+      {
+        "text": "言って",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

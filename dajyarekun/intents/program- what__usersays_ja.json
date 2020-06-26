@@ -1,0 +1,16 @@
+[
+  {
+    "id": "8c3cfc0d-1d32-4f6f-8ff6-46c877fc8bdd",
+    "data": [
+      {
+        "text": "意味がわからない",
+        "alias": "program-entities-what",
+        "meta": "@program-entities-what",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

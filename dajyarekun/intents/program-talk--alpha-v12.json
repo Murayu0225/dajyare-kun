@@ -1,0 +1,51 @@
+{
+  "id": "187e945e-b3fb-47bc-a181-adcbd5741487",
+  "name": "program-talk--alpha-v12",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d43e5cd9-89a7-4a36-ada3-312099916761",
+          "required": false,
+          "dataType": "@program-talk--alpha",
+          "name": "program-talk--alpha",
+          "value": "$program-talk--alpha",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "line",
+          "lang": "ja",
+          "condition": "",
+          "speech": "わかりました。お話をしましょう。\nダジャレくんは、Google Assistantでも、利用できちゃうんです！\nGoogle Assistantで、「ダジャレくんにつないで」と送ると利用できます！"
+        },
+        {
+          "type": 0,
+          "lang": "ja",
+          "condition": "",
+          "speech": "わかりました。お話をしましょう。\nダジャレくんは、LINEでも、利用できちゃうんです！\nダジャレくん公式サイトにてご確認ください。"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

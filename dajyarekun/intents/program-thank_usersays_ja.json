@@ -1,0 +1,16 @@
+[
+  {
+    "id": "c9dbf41c-5122-4a21-889a-ce3712f6bdbb",
+    "data": [
+      {
+        "text": "ありがとう",
+        "alias": "program-entities-thank",
+        "meta": "@program-entities-thank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

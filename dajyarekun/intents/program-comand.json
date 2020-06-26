@@ -1,0 +1,31 @@
+{
+  "id": "2e9f3187-35a7-4386-abaf-52fbc68416c4",
+  "name": "program-comand",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "condition": "",
+          "speech": "わかりました。では、行きます！\n「ダジャレくん」\nあっ、「ん」がついてしまったので私の負けです。ダジャレを引き続き聞く場合には「ダジャレ」と言ってね！終了してほしい場合は「終了」と言ってね！"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

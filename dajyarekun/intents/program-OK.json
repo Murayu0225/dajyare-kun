@@ -1,0 +1,44 @@
+{
+  "id": "377f65e2-ccbe-4879-a75c-3874455a2b13",
+  "name": "program-OK",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "473505a2-8cf9-4279-9e86-1be54883b144",
+          "required": false,
+          "dataType": "@program-confidential-alpha",
+          "name": "program-confidential-alpha",
+          "value": "$program-confidential-alpha",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "condition": "",
+          "speech": "よかったです！\nダジャレを聞く際には、「ダジャレ」と送ってください！\n終了する際には、「終了」と送ってください！"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
